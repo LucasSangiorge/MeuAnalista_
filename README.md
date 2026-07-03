@@ -226,4 +226,4 @@ npm run dev
 
 ## Contato
 
-Suporte: suporte@meuanalista.com.br
+Suporte: meuanalista.ia.br
