@@ -23,7 +23,7 @@ O usuário envia um arquivo CSV, Excel ou JSON, faz perguntas em português e re
 | E-mails | Resend (verificação de conta, recuperação de senha, alertas) |
 | Relatórios | PDF (@react-pdf/renderer), Excel e HTML |
 | Gráficos | ApexCharts |
-| Deploy | Vercel (frontend) · Railway (backend) · GitHub Actions |
+| Deploy | Vercel (frontend) · Render (backend) · Cloudflare · GitHub Actions |
 
 ---
 
